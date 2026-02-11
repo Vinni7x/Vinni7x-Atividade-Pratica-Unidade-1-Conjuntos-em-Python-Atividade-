@@ -12,7 +12,7 @@ Matrícula: 20250071278
 
   · Desenvolver boas práticas de organização de código, uso de funções e documentação.
 
-## 📌 Descrição do Problema
+##  Descrição do Problema
 
 O programa trabalha com dois conjuntos:
 
