@@ -49,12 +49,12 @@ O programa trabalha com dois conjuntos:
    git clone https://github.com/Vinni7x/Vinni7x-Atividade-Pratica-Unidade-1-Conjuntos-em-Python-Atividade-
 2. Acesse a pasta:
 
-  -cd Vinni7x-Atividade-Pratica-Unidade-1-Conjuntos-em-Python-Atividade
+  - cd Vinni7x-Atividade-Pratica-Unidade-1-Conjuntos-em-Python-Atividade
 
 
 3. Execute o programa:
 
-  -python main.py
+  - python main.py
 
 ##  Organização do Código
 
@@ -116,7 +116,7 @@ Responsável por:
 
   - União (A ∪ B)  
   - Interseção (A ∩ B)
-    -Para o conjunto Vazio: O programa identifica quando a interseção é nula e exibe o símbolo $\emptyset$ em vez de set(), facilitando a leitura humana. 
+    - Para o conjunto Vazio: O programa identifica quando a interseção é nula e exibe o símbolo $\emptyset$ em vez de set(), facilitando a leitura humana. 
   - Diferença (A - B)  
   - Diferença (B - A)  
   - Diferença Simétrica (A Δ B)  
