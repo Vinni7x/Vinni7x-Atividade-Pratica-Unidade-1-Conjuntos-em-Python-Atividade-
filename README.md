@@ -42,6 +42,12 @@ O programa trabalha com dois conjuntos:
 - Python 3 instalado (versão 3.x)
 - Não é necessário instalar bibliotecas externas (usa apenas `random`, que já faz parte do Python)
 
+###  Executando pelo terminal
+
+1. Baixe ou clone o repositório:
+   ```bash
+   git clone
+
 
 
 
