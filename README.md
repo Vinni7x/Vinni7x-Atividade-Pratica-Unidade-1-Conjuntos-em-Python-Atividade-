@@ -21,18 +21,27 @@ O programa trabalha com dois conjuntos:
 
 ### Requisitos implementados:
 
-1. O usuário deve informar entre **4 a 8 números inteiros**.
-2. Os números devem estar no intervalo de **0 a 20**.
-3. O programa valida:
+1. O usuário deve informar entre **4 e 8 números inteiros**.
+   - Caso deseje finalizar antes de atingir 8 elementos, pode pressionar Enter sem digitar nenhum valor (desde que já tenha informado pelo menos 4 elementos).
+3. Os números devem estar no intervalo de **0 a 20**.
+4. O programa valida:
    - Quantidade mínima e máxima
    - Elementos repetidos
    - Valores fora do intervalo
    - Entradas inválidas (não numéricas)
-4. O segundo conjunto (B) é gerado aleatoriamente, também com:
+5. O segundo conjunto (B) é gerado aleatoriamente, também com:
    - Entre 4 e 8 elementos
    - Valores no intervalo de 0 a 20
-5. Foi definido um conjunto universo:
+6. Foi definido um conjunto universo:
    - U = {0, 1, 2, ..., 20}
+  
+##  Como Executar o Programa
+
+### Pré-requisitos
+
+- Python 3 instalado (versão 3.x)
+- Não é necessário instalar bibliotecas externas (usa apenas `random`, que já faz parte do Python)
+
 
 
 
