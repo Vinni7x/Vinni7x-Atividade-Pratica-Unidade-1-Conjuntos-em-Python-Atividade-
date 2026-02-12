@@ -2,7 +2,7 @@
 
 Disciplina: Lógica e Matemática Discreta (EECP0015)  
 Curso: Engenharia da Computação – UFMA  
-Professor: Prof. Rondineli Seba  
+Professor: Rondineli Seba  
 Discente: Marcos Vinícius Jansem Oliveira 
 Matrícula: 20250071278
 
