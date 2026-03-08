@@ -86,7 +86,7 @@ def mostrar_resultados(A, B, U):
     print("B^c =", U - B)
 
 
-# ---------- PROGRAMA PRINCIPAL ----------
+# ---------- -----------PROGRAMA PRINCIPAL -------------------
 
 A = ler_conjunto_usuario()
 B = gerar_conjunto_aleatorio()
